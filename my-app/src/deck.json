@@ -1,0 +1,212 @@
+{
+  "cards": [
+    {
+      "value": "A",
+      "suit": "khaj"
+    },
+    {
+      "value": "A",
+      "suit": "khesht"
+    },
+    {
+      "value": "A",
+      "suit": "pick"
+    },
+    {
+      "value": "A",
+      "suit": "hearts"
+    },
+    {
+      "value": "2",
+      "suit": "khaj"
+    },
+    {
+      "value": "2",
+      "suit": "khesht"
+    },
+    {
+      "value": "2",
+      "suit": "pick"
+    },
+    {
+      "value": "2",
+      "suit": "hearts"
+    },
+    {
+      "value": "3",
+      "suit": "khaj"
+    },
+    {
+      "value": "3",
+      "suit": "khesht"
+    },
+    {
+      "value": "3",
+      "suit": "pick"
+    },
+    {
+      "value": "3",
+      "suit": "hearts"
+    },
+    {
+      "value": "4",
+      "suit": "khaj"
+    },
+    {
+      "value": "4",
+      "suit": "khesht"
+    },
+    {
+      "value": "4",
+      "suit": "pick"
+    },
+    {
+      "value": "4",
+      "suit": "hearts"
+    },
+    {
+      "value": "5",
+      "suit": "khaj"
+    },
+    {
+      "value": "5",
+      "suit": "khesht"
+    },
+    {
+      "value": "5",
+      "suit": "pick"
+    },
+    {
+      "value": "5",
+      "suit": "hearts"
+    },
+    {
+      "value": "6",
+      "suit": "khaj"
+    },
+    {
+      "value": "6",
+      "suit": "khesht"
+    },
+    {
+      "value": "6",
+      "suit": "pick"
+    },
+    {
+      "value": "6",
+      "suit": "hearts"
+    },
+    {
+      "value": "7",
+      "suit": "khaj"
+    },
+    {
+      "value": "7",
+      "suit": "khesht"
+    },
+    {
+      "value": "7",
+      "suit": "pick"
+    },
+    {
+      "value": "7",
+      "suit": "hearts"
+    },
+    {
+      "value": "8",
+      "suit": "khaj"
+    },
+    {
+      "value": "8",
+      "suit": "khesht"
+    },
+    {
+      "value": "8",
+      "suit": "pick"
+    },
+    {
+      "value": "8",
+      "suit": "hearts"
+    },
+    {
+      "value": "9",
+      "suit": "khaj"
+    },
+    {
+      "value": "9",
+      "suit": "khesht"
+    },
+    {
+      "value": "9",
+      "suit": "pick"
+    },
+    {
+      "value": "9",
+      "suit": "hearts"
+    },
+    {
+      "value": "10",
+      "suit": "khaj"
+    },
+    {
+      "value": "10",
+      "suit": "khesht"
+    },
+    {
+      "value": "10",
+      "suit": "pick"
+    },
+    {
+      "value": "10",
+      "suit": "hearts"
+    },
+    {
+      "value": "J",
+      "suit": "khaj"
+    },
+    {
+      "value": "J",
+      "suit": "khesht"
+    },
+    {
+      "value": "J",
+      "suit": "pick"
+    },
+    {
+      "value": "J",
+      "suit": "hearts"
+    },
+    {
+      "value": "Q",
+      "suit": "khaj"
+    },
+    {
+      "value": "Q",
+      "suit": "khesht"
+    },
+    {
+      "value": "Q",
+      "suit": "pick"
+    },
+    {
+      "value": "Q",
+      "suit": "hearts"
+    },
+    {
+      "value": "K",
+      "suit": "khaj"
+    },
+    {
+      "value": "K",
+      "suit": "khesht"
+    },
+    {
+      "value": "K",
+      "suit": "pick"
+    },
+    {
+      "value": "K",
+      "suit": "hearts"
+    }
+  ]
+}
